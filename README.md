@@ -4,8 +4,6 @@ This is repo contains the lecture notes and materials of the [STEG Course on Mac
 
 I also have replicated in R the materials prepared by [Julieta Caunedo](https://www.julietacaunedo.com/) for Lecture 2. Her repo can be access [here](https://github.com/julicaunedo/STEG_Lecture2).
 
-This is just a compilation for personal use.
-
 ## Links to Videos
 
 - [Lecture 1](https://www.youtube.com/watch?v=rY6GZ8065xM)
