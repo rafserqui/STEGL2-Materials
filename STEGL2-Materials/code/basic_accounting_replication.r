@@ -284,7 +284,7 @@ pcon <- dfct %>% ggplot(aes(x = year,
         geom_line(aes(color = variable)) +
         geom_point(aes(color = variable)) +
         scale_color_manual(" ",
-                    labels = c("TFP", "Physical Capital", "Human Capital"),
+                    labels = c("Physical Capital", "Human Capital", "TFP"),
                     values = c("#999999", "#E69F00", "#258794")) +
         labs(x = "Year",
             y = "Median Contribution of Factor") +
